@@ -1,4 +1,4 @@
-tutum-centos
+tutum-centos21
 ============
 
 **This image will be deprecated soon. Please use the docker official image:** https://hub.docker.com/_/centos/
